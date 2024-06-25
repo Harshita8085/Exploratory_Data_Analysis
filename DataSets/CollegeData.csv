@@ -1,0 +1,25 @@
+Name ,Age,Course,Email,Mobile_no,Gender,Married
+Harshita,27,DAC,harshu@gmail.com,12345,female,yes
+Sourabh,26,DBDA,saurabh@gmail.com,57882,male,yes
+Neeraj,24,DBDA,neeraj@gmail.com,56923,male,no
+Bhaskar,24,MBA,bhaskar@gmail.com,74632,male,no
+Dipika,28,,dipika@gmail.com,98022,female,yes
+Shraddha,25,,,63748,,no
+Manthan,23,DBDA,man@gmail.com,,male,no
+Rutuja,25,DAC,,67233,female,no
+Kajal,20,DESD,kajal@gmail.com,12345,female,
+Harshita,27,DAC,harshu@gmail.com,57882,female,
+Sourabh,26,DBDA,saurabh@gmail.com,56923,male,
+Neeraj,24,DBDA,neeraj@gmail.com,74632,male,no
+Bhaskar,24,MBA,bhaskar@gmail.com,98022,male,yes
+Dipika,28,,dipika@gmail.com,63748,,
+Shraddha,25,,,,,yes
+Manthan,23,DBDA,man@gmail.com,67233,male,
+Rutuja,25,DAC,,,female,yes
+Kajal,20,DESD,kajal@gmail.com,67389,female,
+Kavita,23,DESD,,,female,
+Harini,20,,harini@gmail.com,73988,female,yes
+Somya,17,,,20968,female,no
+Nivya,18,,nivya@gmail.com,,,no
+Raveena,19,,ravi@gmail.com,12452,,no
+Vini,24,DAC,vini@gmail.com,92372,female,
